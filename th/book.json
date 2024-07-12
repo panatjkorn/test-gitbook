@@ -1,0 +1,20 @@
+{
+    "author": "SuperSuRaccoon",
+    "links": {
+        "sidebar": {
+            "TestTh": "https://panatjkorn.gitbook.io/test-doc/"
+        }
+    },
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "-search-pro",
+        "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
+    ]
+}
