@@ -2,7 +2,7 @@
     "author": "SuperSuRaccoon",
     "links": {
         "sidebar": {
-            "My Blog": "http://www.supersuraccoon-cocos2d.com"
+            "My Blog": "https://panatjkorn.gitbook.io/test-doc/"
         }
     },
     "plugins" : 
@@ -14,6 +14,7 @@
         "katex",
         "mermaid-compat",
         "chart",
-        "-search-pro"
+        "-search-pro",
+        "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
     ]
 }

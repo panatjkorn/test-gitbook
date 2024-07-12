@@ -1,27 +1,23 @@
-{ 
-    "plugins" : 
-    [
-        "advanced-emoji",
-        "disqus",
-        "todo",
-        "emphasize",
-        "katex",
-        "mermaid-compat",
-        "chart",
-        "search-pro"
-    ],
-    "pluginsConfig": 
-    {
-        "sharing": {
-            "weibo": true,
-            "facebook": true,
-            "twitter": true
-        },
-        "disqus": {
-            "shortName": "xxxxxx"
-        },
-        "search-pro": {
-            "cutWordLib": "nodejieba"
-        }
+{
+    "title": "My Project Documentation",
+    "author": "Author Name",
+    "language": "en",
+    "plugins": ["language-picker"],
+    "pluginsConfig": {
+      "language-picker": {
+        "languages": [
+          {
+            "label": "English",
+            "lang": "en",
+            "path": "/en/"
+          },
+          {
+            "label": "ภาษาไทย",
+            "lang": "th",
+            "path": "/th/"
+          }
+        ]
+      }
     }
-}
+  }
+  
