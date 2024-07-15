@@ -3,6 +3,6 @@
 * [README](README.md)
 * [✍️ TestEn](test.md)
 
-## Group 1
+## Company Group
 
-* [company](group-1/company.md)
+* [company](company-group/company.md)
