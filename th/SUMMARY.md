@@ -2,4 +2,4 @@
 
 * [✍️ บทนำ](README.md)
 * [✍️ TestTh](test.md)
-* [ตั้งค่าองค์กร](undefined.md)
+* [company profile](company-profile.md)
